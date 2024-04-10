@@ -8,7 +8,7 @@ const Header = () => {
     <div className='gpt3__header section__padding'>
       <div className='gpt3__header-content'>
         <h1 className="gradient__text">Lets build something Amazing with the GPT-3 Open AI</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia officiis porro exercitationem a reprehenderit impedit? Accusamus velit corrupti voluptatem modi, unde ducimus quod et possimus culpa itaque amet vero! Excepturi nisi voluptate sapiente pariatur dicta aliquid eos, laboriosam dolore, quia accusantium rem quisquam? Officia repudiandae quidem, sunt laudantium quis saepe consequuntur totam ipsam beatae architecto mollitia dolores error, eaque dolor.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam excepturi voluptatum architecto libero corrupti. Optio, sint tenetur. Ipsum sequi dolore, quasi incidunt laboriosam, facere quo maxime officia unde quae aspernatur dolores, aliquam minima dolorem delectus.</p>
        
 
         <div className='gpt3__header-content__input'>
